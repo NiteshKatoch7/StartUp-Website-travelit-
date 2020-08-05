@@ -1,0 +1,147 @@
+.body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+  background-color: #0f4c75;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: white;
+}
+
+p{
+  color: grey;
+}
+
+.heading{
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 3rem;
+  line-height: 1.5;
+  margin-left: 2.5rem;
+
+}
+
+.container-fluid{
+  padding: 5% 25% 5% 25%;
+}
+
+.intro{
+  margin-left: 2rem;
+}
+
+.navbar{
+  margin-right:1.5rem;
+  margin-bottom: 4.5rem;
+}
+
+.navbar-brand{
+  margin-left: 1.5rem;
+  font-family: "Ubuntu";
+  font-size: 3rem;
+
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+#doone{
+  margin-bottom: 3rem;
+  margin-left: 2.5rem;
+
+}
+
+
+#dotwo{
+  margin-left: 1.5rem;
+  margin-bottom: 3rem;
+}
+
+#features{
+  padding: 7% 15%;
+  background-color: white;
+}
+
+.feature-box{
+  padding: 10%;
+  text-align: center;
+}
+
+.icon{
+  color: #0f4c75;
+  margin-bottom: 5%;
+}
+
+.icon:hover{
+  color: #1f4068;
+}
+
+#Testimonials{
+  text-align: center;
+  background-color: #0f4c75;
+  color: white;
+}
+.rev-photo {
+  padding: 3% 1%;
+  border-radius: 100%;
+  clear: right;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+#press{
+  background-color: #0f4c75;
+  text-align: center;
+  margin-bottom: 1.5rem
+}
+
+.logo-img{
+  margin: 3% 3%;
+}
+
+#pricing{
+  text-align: center;
+  padding: 3% 4%;
+  background-color: white;
+}
+
+#enrollbtn{
+  background-color: #0f4c75;
+}
+
+#cta{
+  padding: 10%;
+  background-color: #0f4c75;
+  color: white;
+  text-align: center;
+}
+
+#footer{
+  margin: 3%;
+  text-align: center;
+  background-color: white;
+}
+
+.social-logo{
+  color: black;
+  margin: 3% 1%;
+}
+
+.copy{
+  margin-top: 1%;
+  padding-bottom: 1%;
+}
+
+.end{
+  padding: 3%;
+}
